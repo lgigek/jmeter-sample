@@ -1,5 +1,5 @@
 # JMeter sample
-A sample of load test with JMeter.
+A sample of performance test with JMeter.
 
 ## Script details
 ### Thread Group
